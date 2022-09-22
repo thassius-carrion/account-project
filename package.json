@@ -1,0 +1,25 @@
+{
+  "name": "account-project",
+  "version": "1.0.0",
+  "description": "Node project that simulates accounts transations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thassius-carrion/account-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thassius-carrion/account-project/issues"
+  },
+  "homepage": "https://github.com/thassius-carrion/account-project#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.1.2"
+  }
+}
